@@ -1,0 +1,13 @@
+{
+    "name": "mdgitwiki",
+    "version": "0.1.0",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2",
+      "marked": "^9.0.0",
+      "simple-git": "^3.19.1"
+    }
+  }
